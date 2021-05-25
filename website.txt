@@ -1,20 +1,20 @@
-Collapse Content
+Collapsed Content 
 
-1.Home
-2.Activities
-3.Quizzes
+1. Home 
+2. Activities 
+3. Quizes 
 
-Body
+Body 
 
-Name
+Name 
 Description of yourself
 
-Facebook link
-Instagram link
-Twitter link
+-Facebook Link 
+-LinkedIn Link 
+-Instagram Link 
 
+Blog 
 
-Blog
-Our First Google meeting Blog
-Online Interaction
-Last Google Meeting Blog
+Our First Google Meeting Blog 
+Online Interaction with E-RTU 
+The Last Google Meeting BLog 
