@@ -1,20 +1,23 @@
 Collapsed Content 
 
-1. Home 
-2. Activities 
-3. Quizes 
+1. Home - content inside done
+2. Activities - content inside done
+3. Quizes - content inside done
 
 Body 
 
-Name 
-Description of yourself
+Name - done
+Description of yourself - done
 
--Facebook Link 
--LinkedIn Link 
--Instagram Link 
+-Facebook Link - done
+-LinkedIn Link - done
+-Instagram Link - done
 
 Blog 
 
 Our First Google Meeting Blog 
 Online Interaction with E-RTU 
 The Last Google Meeting BLog 
+
+Profile
+
